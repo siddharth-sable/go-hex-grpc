@@ -1,6 +1,6 @@
 ﻿# go-hex-grpc
- 
- ## project structure
+ This GoLang project is built using the Hexagonal Port and Adapters architectural pattern and incorporates gRPC communication and Docker containerization. The Hexagonal architecture, also known as Ports and Adapters architecture, provides a modular and flexible approach for designing and organizing applications.
+ ## Project structure
  
  ```
  .
